@@ -1,4 +1,4 @@
 mouse_studio
 ============
 
-Arduino code to control your Mouse Studio recording box
+Adobe Illustrator files to build & Arduino sketch to control the Mouse Studio recording box
